@@ -1,4 +1,4 @@
-# JNUC2023
+# JNUC 2023
 The Keynote file from my JNUC 2023 presentation "Defensive Driving for the Shell"
 
 ### Resources
